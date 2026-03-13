@@ -1,6 +1,8 @@
 # 心语森林 - 情侣互动聊天卡牌
 
 一个基于React和DeepSeek API的情侣互动聊天卡牌应用，帮助情侣通过深度对话和互动挑战增进感情。
+<img width="1912" height="948" alt="image" src="https://github.com/user-attachments/assets/ad0ba298-7296-4308-aeee-c3ef0b63996a" />
+
 
 ## 功能特点
 
