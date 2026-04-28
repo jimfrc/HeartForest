@@ -1,6 +1,6 @@
 import { Card } from "../types";
 
-const DEEPSEEK_API_KEY = process.env.DEEPSEEK_API_KEY || "sk-a8a957e703484de5abc162bcdca90122";
+const DEEPSEEK_API_KEY = process.env.DEEPSEEK_API_KEY || "";
 const DEEPSEEK_API_URL = "https://api.deepseek.com/chat/completions";
 
 export async function generateNewCard(topic: string): Promise<Card> {
